@@ -1,0 +1,5 @@
+C:\Users\gkkha\source\repos\18015639 Goolam Khan Poe rae9T\18015639 Goolam Khan Poe rae9T\obj\Debug\18015639 Goolam Khan Poe rae9T.csprojResolveAssemblyReference.cache
+C:\Users\gkkha\source\repos\18015639 Goolam Khan Poe rae9T\18015639 Goolam Khan Poe rae9T\obj\Debug\_18015639_Goolam_Khan_Poe_rae9T.Form1.resources
+C:\Users\gkkha\source\repos\18015639 Goolam Khan Poe rae9T\18015639 Goolam Khan Poe rae9T\obj\Debug\_18015639_Goolam_Khan_Poe_rae9T.Properties.Resources.resources
+C:\Users\gkkha\source\repos\18015639 Goolam Khan Poe rae9T\18015639 Goolam Khan Poe rae9T\obj\Debug\18015639 Goolam Khan Poe rae9T.csproj.GenerateResource.Cache
+C:\Users\gkkha\source\repos\18015639 Goolam Khan Poe rae9T\18015639 Goolam Khan Poe rae9T\obj\Debug\18015639 Goolam Khan Poe rae9T.csproj.CoreCompileInputs.cache
